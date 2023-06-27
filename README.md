@@ -7,7 +7,7 @@ Players with 1 win or lower were omitted because it made up 95% of the data, and
 
 Thanks for the 5 years of fun!
 
-Moving onwards, [Crazy 8s](https://www.roblox.com/games/13772794683) is the proper re-branded version of Roblox Uno to comply with the law.
+Moving onwards, [Crazy 8s](https://www.roblox.com/games/13772794683) is the proper re-branded version of Roblox Uno.
 
 # Explanation
 
