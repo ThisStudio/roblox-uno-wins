@@ -24,6 +24,7 @@ Such that a user with user id 123 has 10 wins, and user with user id 198 has 5 w
 
 ## Data folders
 
-- [Leaderboard1](./Leaderboard1/) contains win data from `2022-02-06` to `2023-06-11`
-- [Leaderboard](./Leaderboard/) contains win data from `2018-11-xx` to `2022-02-06`
+- [Leaderboard_v1_1](./Leaderboard_v1_1/) contains win data from `2022-06-28` to `2023-06-11` (Version 1126-1147)
+- [Leaderboard1](./Leaderboard1/) contains win data from `2022-01-29` to `2022-06-27` (Version 1091-1125)
+- [Leaderboard](./Leaderboard/) contains win data from `2018-07-12` to `2021-11-29` (Version 992-1090)
 - [Combined](./Combined/) contains all of the above combined into one. If there's a conflict (player id exists in both), we use the one from the newer leaderboard.
